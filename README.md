@@ -1,2 +1,2 @@
-# ML-for-Public-Policy-
+# ML-for-Public-Policy
 Notes for CAPP courses
